@@ -10,6 +10,9 @@ var options = [
   },
   {selector: '#izdat', offset: 200, callback: function() {
     $('#content4').show("slow");} 
+  },
+  {selector: '#comand', offset: 200, callback: function() {
+    $('#content5').show("slow");} 
   }
 ];
 Materialize.scrollFire(options);
