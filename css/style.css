@@ -1,0 +1,119 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.brand-logo img{
+  padding-top: 10px;
+  max-height: 54px;
+}
+
+._menu{
+  color: #212121 !important;
+}
+
+._base{
+  min-height: 400px;
+}
+
+._base img{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  max-width: 460px;
+}
+
+p{
+  font-size: 13pt;
+}
+
+a{
+  font-size: 14pt;
+}
+
+#sidenav-overlay {
+  z-index: 1;
+}
+
+.row{
+  margin-bottom: 0px;
+}
+
+.container{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.paralax-container{
+  margin-bottom: 0px;
+}
+
+._text{
+  padding-top:80px;
+}
+
+.cons-text{
+  color:white;
+}
+
+.cons-text a{
+  color: white !important;
+  text-decoration: underline;
+}
+
+.tren-text{
+  color: #212121;
+}
+
+.tren-text a{
+  color: #212121;
+  text-decoration: underline;
+}
+
+.izdat-text{
+  color:#b070b8;
+}
+
+.izdat-text a{
+  color:#b070b8;
+  text-decoration: underline;
+}
+
+._contact{
+  height:100px;
+}
+
+footer{
+  height:40px;
+}
+
+.parallax-container {
+  height: 400px !important;
+}
+
+.general-text{
+  font-size:35pt;
+  color: #eceff1;
+}
+
+.sub-text{
+  font-size:15pt;
+  color: #eceff1;
+}
+
+.comand-back{
+  height:260px;
+  width:420px;
+}
+
+._size{
+  min-height: 300px !important;
+}
