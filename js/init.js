@@ -13,6 +13,9 @@ var options = [
   },
   {selector: '#comand', offset: 200, callback: function() {
     $('#content5').show("slow");} 
+  },
+  {selector: '.parallax', offset: 200, callback: function() {
+    $('#general').slideDown("slow");} 
   }
 ];
 Materialize.scrollFire(options);
@@ -23,7 +26,7 @@ Materialize.scrollFire(options);
     $('.parallax').parallax();
     $('.scrollspy').scrollSpy();
     $('.button-collapse').sideNav();
-    //$('#consalt').show("slow");
+    //$('#general').show("slow");
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
