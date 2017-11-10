@@ -13,8 +13,9 @@
 	font-size: inherit;
 }
 .brand-logo img{
-  padding-top: 10px;
-  max-height: 54px;
+  padding-top: 5px;
+  max-height: 59px;
+  padding-bottom: 5px;
 }
 
 ._menu{
