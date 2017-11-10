@@ -54,6 +54,7 @@ a{
 
 .paralax-container{
   margin-bottom: 0px;
+  height: 500px !important;
 }
 
 ._text{
@@ -95,12 +96,9 @@ footer{
   height:40px;
 }
 
-.parallax-container {
-  height: 400px !important;
-}
-
 .general-text{
   font-size:35pt;
+  text-shadow: 1px 1px 2px black, 0 0 1em grey;
   color: #eceff1;
 }
 
