@@ -117,3 +117,13 @@ footer{
 ._size{
   min-height: 300px !important;
 }
+
+.tittle-text{
+  font-size: 20pt;
+  color: #e27073;
+}
+
+.img-st{
+  margin-top:20px;
+  margin-bottom:20px;
+}
